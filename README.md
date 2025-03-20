@@ -39,3 +39,11 @@ I'll be updating this repository as I make progress, so feel free to follow alon
 ---
 
 This document will evolve as I work on SynapSort, and I’ll adjust my approach based on what I learn along the way.
+
+---
+## im gonna use Ollama and maybe a web-ui
+20-03-2025 
+fist things firts im gonna install Ollama, it hase a nice script tho im not sure why it mabe a user for ollama? best guess is that its for security? 
+looks like it's installed, now lets have some fun.
+chatgpt says that "Mistral 7B: Lightweight, open-source, and good for IT-related tasks" so lets try that
+its working im gonna test it by asking for help with my home work
